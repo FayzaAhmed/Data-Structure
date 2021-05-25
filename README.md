@@ -1,9 +1,9 @@
 # Data-Structure
 
 
-##Problems
+## Problems
 
-###Problem 1 (Big Decimal):
+### Problem 1 (Big Decimal):
 Different variations of types int and float exist in C++ and other languages. They are usually limited by minimum and maximum values. Sometimes it is desired to have versions of these types with unlimited bounds. 
 Java solves this problem by providing BigInteger and BigDecimal classes. In this problem it is required to develop a new C++ type (class) that can hold unlimited decimal integer values and performs
 arithmetic operations on them. You will develop in C++ a class, BigDecimalInt that supports writing statements with extremely long integer values like these:
@@ -34,7 +34,7 @@ Implement a program that runs the test cases and verifies the result.
 
 
 
-###Problem 2 (Fraction):
+### Problem 2 (Fraction):
 You will develop an application for performing calculations on fractions.
 (1) First, develop a class Fraction that represents a fraction by one integer divided by another, e.g., 1/3 or 3/7. 
 a. This class defines adding,subtracting, multiplying, dividing and comparing (<, >, ==, <= and >=) fractions by overloading the standard operators for these operations. 
@@ -45,7 +45,7 @@ c. You also need to overload I/O operators to be able to input and output fracti
 
 
 
-###Problem 3 (Matrix):
+### Problem 3 (Matrix):
 You will develop an application for matrix calculations.
 (1) It is required to design and implement a generic class Matrix, in the form of a class template that accepts a type parameter. 
 This way, when the class Matrix is instantiated, we decide if it should accept float, int or double, etc. 
@@ -60,7 +60,7 @@ Add a method for matrix transpose.
 (7) Then develop a MatrixCalculator class which offersthe user a menu of operations to perform on int matrices as follows. 
 Each of these options should be able to accept matrices of varying dimensions, which the user inputs. For multiplication, the calculator should check that two matrices are of dimensions n x m and m x p. 
 Welcome to (Your Name) Matrix Calculator
-1- Perform Matrix Addition
-2- Perform Matrix Subtraction
-3- Perform Matrix Multiplication
-4- Matrix Transpose
+1. Perform Matrix Addition
+2. Perform Matrix Subtraction
+3. Perform Matrix Multiplication
+4. Matrix Transpose
