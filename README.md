@@ -59,7 +59,7 @@ Add a method for matrix transpose.
 <br />7. Then develop a MatrixCalculator class which offersthe user a menu of operations to perform on int matrices as follows. 
 Each of these options should be able to accept matrices of varying dimensions, which the user inputs. For multiplication, the calculator should check that two matrices are of dimensions n x m and m x p. <br />
 **Welcome to (Your Name) Matrix Calculator** <br />
-_ 1. Perform Matrix Addition
-_ 2. Perform Matrix Subtraction
-_ 3. Perform Matrix Multiplication
-_ 4. Matrix Transpose
+- 1. Perform Matrix Addition
+- 2. Perform Matrix Subtraction
+- 3. Perform Matrix Multiplication
+- 4. Matrix Transpose
