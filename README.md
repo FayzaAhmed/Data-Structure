@@ -10,7 +10,6 @@ arithmetic operations on them. You will develop in C++ a class, BigDecimalInt th
 BigDecimalInt num1("123456789012345678901234567890");<br />
 BigDecimalInt num2("113456789011345678901134567890");<br />
 BigDecimalInt num3 = num2 + num1;<br />
-
 cout << "num1 = " << num1 << endl;<br />
 cout << "num2 = " << num2 << endl;<br />
 //236913578023691357802369135780 <br />
@@ -37,9 +36,9 @@ Implement a program that runs the test cases and verifies the result.
 ### Problem 2 (Fraction):
 You will develop an application for performing calculations on fractions.
 <br />1. First, develop a class Fraction that represents a fraction by one integer divided by another, e.g., 1/3 or 3/7. 
-<br />_a. This class defines adding,subtracting, multiplying, dividing and comparing (<, >, ==, <= and >=) fractions by overloading the standard operators for these operations. 
-<br />_b. Itshould also contain a function for reducing fractions. For example 2/6 is reduced after calling the function to 1/3, etc. 
-<br />_c. You also need to overload I/O operators to be able to input and output fractions naturally using >> and << operators. 
+<br /> _ a. This class defines adding,subtracting, multiplying, dividing and comparing (<, >, ==, <= and >=) fractions by overloading the standard operators for these operations. 
+<br /> _ b. Itshould also contain a function for reducing fractions. For example 2/6 is reduced after calling the function to 1/3, etc. 
+<br /> _ c. You also need to overload I/O operators to be able to input and output fractions naturally using >> and << operators. 
 <br /><br />2. Separate class specifications from implementation by creating Fraction.h forspecs and Fraction.cpp for implementation. 
 <br /><br />3. Second, develop a class FractionCalculator that utilizes the class Fraction and allows the user to input a fraction and perform calculations by adding, subtracting, etc. another fraction and then keeping the result as a fraction for further calculations.
 
@@ -59,8 +58,8 @@ It should have suitable constructors and methods for allocating the required mem
 Add a method for matrix transpose. 
 <br />7. Then develop a MatrixCalculator class which offersthe user a menu of operations to perform on int matrices as follows. 
 Each of these options should be able to accept matrices of varying dimensions, which the user inputs. For multiplication, the calculator should check that two matrices are of dimensions n x m and m x p. <br />
-**Welcome to (Your Name) Matrix Calculator**
-_1. Perform Matrix Addition
-_2. Perform Matrix Subtraction
-_3. Perform Matrix Multiplication
-_4. Matrix Transpose
+**Welcome to (Your Name) Matrix Calculator** <br />
+_ 1. Perform Matrix Addition
+_ 2. Perform Matrix Subtraction
+_ 3. Perform Matrix Multiplication
+_ 4. Matrix Transpose
