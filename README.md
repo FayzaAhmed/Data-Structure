@@ -1,7 +1,7 @@
 # Data-Structure
 
 
-## Problems
+## Assignment1
 
 ### Problem 1 (Big Decimal):
 Different variations of types int and float exist in C++ and other languages. They are usually limited by minimum and maximum values. Sometimes it is desired to have versions of these types with unlimited bounds. 
