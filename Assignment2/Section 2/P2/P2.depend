@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623290896 source:e:\2nd year\c++\p2\main.cpp
+	<iostream>
+	"Stack.h"
+
+1623290939 e:\2nd year\c++\p2\stack.h
+	<iostream>
+
+1623290896 source:e:\2nd year\2nd term\data strutcures\section 2\p2\main.cpp
+	<iostream>
+	"Stack.h"
+
+1623290939 e:\2nd year\2nd term\data strutcures\section 2\p2\stack.h
+	<iostream>
+

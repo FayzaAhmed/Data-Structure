@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623272200 source:e:\2nd year\c++\section 1-problem 2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<random>
+
+1623280513 source:e:\2nd year\2nd term\data strutcures\section 1\p2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<random>
+
+1623300398 source:e:\2nd year\2nd term\data strutcures\a2_20190520_20190584_20190600_id4_id5\section 1\p2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<random>
+
